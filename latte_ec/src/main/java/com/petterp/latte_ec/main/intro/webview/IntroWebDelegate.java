@@ -32,7 +32,7 @@ public class IntroWebDelegate extends BaseFragment {
 
     @Override
     public void onBindView(@Nullable Bundle savedInstanceState, @NonNull View rootView) {
-        webViewUtils.loadUrl("https://github.com/Petterpx/LittleRecord/blob/master/README.md");
+        webViewUtils.loadUrl("https://github.com/Mr-Cu/myBookkeeping/blob/master/README.md");
     }
 
     @Override
