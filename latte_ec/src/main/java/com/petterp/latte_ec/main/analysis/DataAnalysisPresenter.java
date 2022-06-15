@@ -16,7 +16,7 @@ import java.util.List;
  */
 public class DataAnalysisPresenter extends BasePresenter<IDataAnalysisView> {
     private IDataAnalysisView view;
-    private IAnalysisModel xmodel;
+    private IAnalysisModel model;
 
     @Override
     public void getView(IDataAnalysisView view) {

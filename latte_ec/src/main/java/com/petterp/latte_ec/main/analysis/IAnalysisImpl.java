@@ -194,7 +194,7 @@ public class IAnalysisImpl implements IAnalysisModel {
             day = Integer.parseInt(times[2].replaceAll("^(0+)", ""));
         } else {
             int months = Integer.parseInt(month);
-            if (monsumeMap.put(onths == 1 || months == 3 || months == 5 || months == 7 || months == 8 || months == 10 || months == 12) {
+            if (months == 1 || months == 3 || months == 5 || months == 7 || months == 8 || months == 10 || months == 12) {
                 day = 31;
             } else if (months == 2) {
                 int years = Integer.parseInt(year);
