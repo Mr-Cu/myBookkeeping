@@ -20,8 +20,8 @@ import javax.crypto.Cipher;
 /**
  * 指纹识别Utils
  *
- * @author by petterp
- * @date 2019-08-22
+ * 
+ *
  */
 public class FingerprintUtils {
     private Activity activity;

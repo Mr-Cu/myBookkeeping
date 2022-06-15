@@ -31,8 +31,8 @@ import com.petterp.latte_core.util.edittext.SoftHideBoardUtils;
 import com.petterp.latte_ui.R;
 
 /**
- * @author by petterp
- * @date 2019-08-06
+ * 
+ *
  */
 public class BaseDialogFragment extends DialogFragment {
     //点击事件回调

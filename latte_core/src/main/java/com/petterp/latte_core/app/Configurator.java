@@ -18,7 +18,7 @@ import java.util.HashMap;
 import okhttp3.Interceptor;
 
 /**
- * Auther: Petterp on 2019/4/14
+ *
  * Summary:配置文件的存储与获取
  */
 public class Configurator {

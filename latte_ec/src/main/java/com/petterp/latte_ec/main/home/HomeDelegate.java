@@ -52,8 +52,8 @@ import de.hdodenhof.circleimageview.CircleImageView;
 /**
  * 首页delegate
  *
- * @author by Petterp
- * @date 2019-07-23
+ * 
+ *
  */
 @GlideModule
 @CreatePresenter(HomePresenter.class)

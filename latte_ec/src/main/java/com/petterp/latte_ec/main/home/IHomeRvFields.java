@@ -1,8 +1,8 @@
 package com.petterp.latte_ec.main.home;
 
 /**
- * @author by Petterp
- * @date 2019-07-18
+ * 
+ *
  */
 public enum IHomeRvFields {
     //时间戳

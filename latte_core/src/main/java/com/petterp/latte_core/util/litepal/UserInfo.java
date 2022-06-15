@@ -4,8 +4,8 @@ import org.litepal.crud.LitePalSupport;
 
 /**
  * 用户信息表
- * @author by Petterp
- * @date 2019-07-17
+ *
+ *
  */
 public class UserInfo extends LitePalSupport {
 

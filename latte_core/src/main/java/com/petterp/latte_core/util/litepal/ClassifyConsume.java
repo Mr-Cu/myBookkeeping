@@ -4,9 +4,9 @@ import org.litepal.crud.LitePalSupport;
 
 /**
  * 添加分类管理
- * @author Petterp on 2019/8/24
+ *
  * Summary:
- * 邮箱：1509492795@qq.com
+ *
  */
 public class ClassifyConsume extends LitePalSupport {
     private String icon;

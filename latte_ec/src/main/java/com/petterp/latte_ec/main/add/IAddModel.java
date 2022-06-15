@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * add-model层
  *
- * @author by Petterp
+ * 
  */
 public interface IAddModel {
 

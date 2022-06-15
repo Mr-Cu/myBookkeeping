@@ -3,9 +3,9 @@ package com.petterp.latte_core.util.litepal;
 import org.litepal.crud.LitePalSupport;
 
 /**
- * @author Petterp on 2019/8/24
+ *
  * Summary:
- * 邮箱：1509492795@qq.com
+ *
  */
 public class ClassifyIncome extends LitePalSupport {
     private String icon;

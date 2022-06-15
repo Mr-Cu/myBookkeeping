@@ -3,8 +3,8 @@ package com.petterp.latte_ec.main.home;
 /**
  * DrawerLayout滑动监听
  *
- * @author by Petterp
- * @date 2019-07-25
+ * 
+ *
  */
 public interface IHomeDrListener {
     /**

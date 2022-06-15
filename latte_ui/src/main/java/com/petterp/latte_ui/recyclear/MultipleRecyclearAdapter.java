@@ -16,9 +16,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Petterp on 2019/4/23
+ *
  * Summary:需要传入两个泛型，一个是holder，一个是数据结构
- * 邮箱：1509492795@qq.com
+ *
  */
 public class MultipleRecyclearAdapter extends
         BaseMultiItemQuickAdapter<MultipleItemEntity,

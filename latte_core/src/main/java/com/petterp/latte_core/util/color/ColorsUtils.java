@@ -3,8 +3,8 @@ package com.petterp.latte_core.util.color;
 import java.util.Random;
 
 /**
- * @author by petterp
- * @date 2019-08-13
+ *
+ *
  */
 public class ColorsUtils {
     public static String getRandColor() {

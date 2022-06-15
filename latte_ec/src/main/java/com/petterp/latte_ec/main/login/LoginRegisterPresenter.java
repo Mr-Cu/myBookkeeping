@@ -19,8 +19,8 @@ import io.reactivex.disposables.Disposable;
 /**
  * 注册-> 控制层
  *
- * @author by Petterp
- * @date 2019-07-31
+ *
+ *
  */
 public class LoginRegisterPresenter extends BasePresenter<IRegisterView> {
     private IRegisterView iView;

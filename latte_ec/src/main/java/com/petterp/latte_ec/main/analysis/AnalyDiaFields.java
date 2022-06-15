@@ -2,8 +2,8 @@ package com.petterp.latte_ec.main.analysis;
 
 /**
  * Analysis Dia的时间挑选mode
- * @author by petterp
- * @date 2019-08-10
+ *
+ *
  */
 public class AnalyDiaFields {
     /**

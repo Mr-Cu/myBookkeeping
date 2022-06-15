@@ -26,8 +26,8 @@ import java.util.List;
 /**
  * 抽象Activity基类，包含Fragment返回键处理
  *
- * @author by petterp
- * @date 2019-08-07
+ * 
+ *
  */
 public abstract class BaseActivity extends AppCompatActivity {
 

@@ -33,8 +33,8 @@ import de.hdodenhof.circleimageview.CircleImageView;
 import static com.petterp.latte_ec.main.login.CreateUserDelegate.REQUEST_OPTIONS;
 
 /**
- * @author by petterp
- * @date 2019-08-06
+ * 
+ *
  */
 @CreatePresenter(LoginUserPresenter.class)
 public class UserDelegate extends BaseFragment<LoginUserPresenter> implements IUserView {

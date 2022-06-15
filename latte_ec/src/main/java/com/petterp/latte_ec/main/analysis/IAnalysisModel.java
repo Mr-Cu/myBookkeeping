@@ -8,8 +8,8 @@ import java.util.HashMap;
 import java.util.List;
 
 /**
- * @author by petterp
- * @date 2019-08-10
+ * 
+ *
  */
 public interface IAnalysisModel {
     String getTitleRes();

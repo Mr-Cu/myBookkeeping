@@ -8,7 +8,7 @@ import com.petterp.latte_core.mvp.base.BaseActivity;
 import java.util.HashMap;
 
 /**
- * Auther: Petterp on 2019/4/14
+ *
  * Summary:对外的一个工具类
  */
 public final class Latte {

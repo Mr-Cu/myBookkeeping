@@ -25,8 +25,8 @@ import butterknife.OnClick;
 /**
  * 注册-> 验证手机号
  *
- * @author by Petterp
- * @date 2019-07-31
+ * 
+ *
  */
 @CreatePresenter(LoginRegisterPresenter.class)
 public class RegisterDelegate extends BaseFragment<LoginRegisterPresenter> implements IRegisterView {

@@ -24,8 +24,8 @@ import java.util.Objects;
 import butterknife.BindView;
 
 /**
- * @author by petterp
- * @date 2019-08-16
+ * 
+ * 
  */
 public class IntroDelegate extends BaseFragment {
     @BindView(R2.id.bar_intro)

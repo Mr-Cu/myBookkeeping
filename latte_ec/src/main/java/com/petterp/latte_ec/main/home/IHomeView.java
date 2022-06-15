@@ -8,8 +8,8 @@ import java.util.List;
 
 /**
  * 首页-view层
- * @author by Petterp
- * @date 2019-07-23
+ * 
+ *
  */
 public interface IHomeView extends IBaseView {
 

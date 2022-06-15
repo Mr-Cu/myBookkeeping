@@ -10,8 +10,8 @@ import java.util.Date;
 /**
  * 获取时间工具类
  *
- * @author by Petterp
- * @date 2019-07-19
+ * 
+ *
  */
 @SuppressLint("SimpleDateFormat")
 public class TimeUtils {

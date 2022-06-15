@@ -10,8 +10,8 @@ import com.petterp.latte_ui.recyclear.MultipleFidls;
 import com.petterp.latte_ui.recyclear.MultipleItemEntity;
 
 /**
- * @author by Petterp
- * @date 2019-07-30
+ * 
+ * 
  */
 public class DrawItemClickListener extends SimpleClickListener {
     private HomeDelegate delegate;

@@ -19,8 +19,8 @@ import com.petterp.latte_ui.recyclear.MultipleItemEntity;
 
 
 /**
- * @author by Petterp
- * @date 2019-07-26
+ * 
+ *
  */
 public class HomeItemClickListener extends SimpleClickListener implements IDialogTextListener, IHomeDiaQueryInfo {
     private HomePresenter presenter;

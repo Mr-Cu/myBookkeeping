@@ -1,9 +1,9 @@
 package com.petterp.latte_ui.recyclear;
 
 /**
- * @author Petterp on 2019/4/23
+ *
  * Summary:标记，不同种类
- * 邮箱：1509492795@qq.com
+ *
  */
 public class ItemType {
     public static final int TEXT = 1;       //只有文字的RecyclearView

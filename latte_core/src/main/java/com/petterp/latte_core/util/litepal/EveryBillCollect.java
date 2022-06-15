@@ -8,8 +8,8 @@ import org.litepal.crud.LitePalSupport;
 /**
  * 每日账单汇总
  *
- * @author by Petterp
- * @date 2019-07-19
+ * 
+ *
  */
 public class EveryBillCollect extends LitePalSupport {
 

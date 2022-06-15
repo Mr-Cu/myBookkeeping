@@ -8,8 +8,8 @@ import java.util.List;
 /**
  * 首页-数据层
  *
- * @author by Petterp
- * @date 2019-07-23
+ * 
+ *
  */
 public interface IHomeModel {
     /**

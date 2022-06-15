@@ -13,8 +13,8 @@ import static java.lang.annotation.ElementType.TYPE;
 /**
  * Presenter 注解
  *
- * @author by Petterp
- * @date 2019-08-03
+ *
+ *
  */
 @Target({TYPE})
 @Inherited //可重复

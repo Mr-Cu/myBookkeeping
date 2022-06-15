@@ -9,8 +9,8 @@ import androidx.annotation.Nullable;
 import androidx.navigation.NavDirections;
 
 /**
- * @author by Petterp
- * @date 2019-08-03
+ * 
+ *
  */
 public interface IBaseView {
     /**

@@ -24,8 +24,8 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * @author by petterp
- * @date 2019-08-10
+ * 
+ *
  */
 public class IAnalysisImpl implements IAnalysisModel {
     private DecimalFormat decimalFormat = new DecimalFormat("###################.##");

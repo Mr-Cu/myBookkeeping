@@ -5,9 +5,9 @@ import android.content.Context;
 import android.util.DisplayMetrics;
 
 /**
- * @author Petterp on 2019/6/16
+ *
  * Summary:
- * email：1509492795@qq.com
+ *
  */
 public class DensityUtil {
 

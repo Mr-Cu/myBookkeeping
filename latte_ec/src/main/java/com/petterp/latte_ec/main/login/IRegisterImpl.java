@@ -5,8 +5,8 @@ import com.petterp.latte_ec.main.login.imodel.IRegisterModel;
 import cn.smssdk.SMSSDK;
 
 /**
- * @author by Petterp
- * @date 2019-07-31
+ * 
+ *
  */
 public class IRegisterImpl implements IRegisterModel {
 

@@ -1,7 +1,7 @@
 package com.petterp.latte_core.app;
 
 /**
- * Auther: Petterp on 2019/4/14
+ *
  * Summary:用枚举来做安全的单例(惰性单例),整个程序只会被初始化一次
  */
 public enum ConfigKeys {

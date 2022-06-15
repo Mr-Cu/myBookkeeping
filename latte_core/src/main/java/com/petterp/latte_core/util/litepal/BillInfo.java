@@ -5,8 +5,8 @@ import org.litepal.crud.LitePalSupport;
 
 /**
  * 收支情况表-详细
- * @author by Petterp
- * @date 2019-07-17
+ * 
+ *
  */
 public class BillInfo extends LitePalSupport {
     private long id;

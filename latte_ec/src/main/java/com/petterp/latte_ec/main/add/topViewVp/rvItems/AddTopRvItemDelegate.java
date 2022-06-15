@@ -32,8 +32,8 @@ import java.util.List;
 import butterknife.BindView;
 
 /**
- * @author by petterp
- * @date 2019-08-24
+ * 
+ *
  */
 @CreatePresenter(AddTopRvItemPresenter.class)
 public class AddTopRvItemDelegate extends BaseFragment<AddTopRvItemPresenter> implements IAddTopRvItemView {

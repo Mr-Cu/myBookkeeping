@@ -24,8 +24,8 @@ import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.disposables.Disposable;
 
 /**
- * @author by petterp
- * @date 2019-08-16
+ * 
+ *
  */
 public class ReportDelegate extends BaseFragment {
     @BindView(R2.id.bar_report)

@@ -11,9 +11,9 @@ import java.text.DecimalFormat;
 import java.util.List;
 
 /**
- * @author Petterp on 2019/6/23
+ *
  * Summary:
- * 邮箱：1509492795@qq.com
+ *
  */
 public class HomeAdapter extends MultipleRecyclearAdapter {
 

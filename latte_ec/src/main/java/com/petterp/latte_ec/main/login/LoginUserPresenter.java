@@ -18,8 +18,8 @@ import org.greenrobot.eventbus.EventBus;
 import java.util.HashMap;
 
 /**
- * @author by petterp
- * @date 2019-08-06
+ * 
+ *
  */
 public class LoginUserPresenter extends BasePresenter<IUserView> {
     private IUserModel model;
